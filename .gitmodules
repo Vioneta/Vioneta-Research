@@ -1,0 +1,273 @@
+[submodule "mobile-ai/ncnn"]
+	path = mobile-ai/ncnn
+	url = https://github.com/Tencent/ncnn.git
+[submodule "brain-based-ai/Brain-Cog"]
+	path = brain-based-ai/Brain-Cog
+	url = https://github.com/BrainCog-X/Brain-Cog.git
+[submodule "data-training-tools/xtreme1"]
+	path = data-training-tools/xtreme1
+	url = https://github.com/xtreme1-io/xtreme1.git
+[submodule "ai-api-server/edenai-apis"]
+	path = ai-api-server/edenai-apis
+	url = https://github.com/edenai/edenai-apis.git
+[submodule "ambian-edge/ambianic-edge"]
+	path = ambian-edge/ambianic-edge
+	url = https://github.com/ambianic/ambianic-edge.git
+[submodule "ambian-edge/ambianic-ui"]
+	path = ambian-edge/ambianic-ui
+	url = https://github.com/ambianic/ambianic-ui.git
+[submodule "ambian-edge/fall-detection"]
+	path = ambian-edge/fall-detection
+	url = https://github.com/ambianic/fall-detection.git
+[submodule "ambian-edge/ambianic-rpi-image"]
+	path = ambian-edge/ambianic-rpi-image
+	url = https://github.com/ambianic/ambianic-rpi-image.git
+[submodule "os-build-tool-pi/pi-gen"]
+	path = os-build-tool-pi/pi-gen
+	url = https://github.com/RPi-Distro/pi-gen.git
+[submodule "os-build-tool-pi/wifi-connect"]
+	path = os-build-tool-pi/wifi-connect
+	url = https://github.com/balena-os/wifi-connect.git
+[submodule "os-build-tool-pi/open-balena"]
+	path = os-build-tool-pi/open-balena
+	url = https://github.com/balena-io/open-balena.git
+[submodule "os-build-tool-pi/open-balena-api"]
+	path = os-build-tool-pi/open-balena-api
+	url = https://github.com/balena-io/open-balena-api.git
+[submodule "os-build-tool-pi/balena-cli"]
+	path = os-build-tool-pi/balena-cli
+	url = https://github.com/balena-io/balena-cli.git
+[submodule "os-build-tool-pi/open-balena-s3"]
+	path = os-build-tool-pi/open-balena-s3
+	url = https://github.com/balena-io/open-balena-s3.git
+[submodule "os-build-tool-pi/open-balena-registry"]
+	path = os-build-tool-pi/open-balena-registry
+	url = https://github.com/balena-io/open-balena-registry.git
+[submodule "os-build-tool-pi/balena-fleet-management-masterclass"]
+	path = os-build-tool-pi/balena-fleet-management-masterclass
+	url = https://github.com/balena-io/balena-fleet-management-masterclass.git
+[submodule "os-build-tool-pi/services-masterclass"]
+	path = os-build-tool-pi/services-masterclass
+	url = https://github.com/balena-io/services-masterclass.git
+[submodule "os-build-tool-pi/open-balena-haproxy"]
+	path = os-build-tool-pi/open-balena-haproxy
+	url = https://github.com/balena-io/open-balena-haproxy.git
+[submodule "os-build-tool-pi/balena-sdk-python"]
+	path = os-build-tool-pi/balena-sdk-python
+	url = https://github.com/balena-io/balena-sdk-python.git
+[submodule "os-build-tool-pi/balena-cli-advanced-masterclass"]
+	path = os-build-tool-pi/balena-cli-advanced-masterclass
+	url = https://github.com/balena-io/balena-cli-advanced-masterclass.git
+[submodule "os-build-tool-pi/open-balena-db"]
+	path = os-build-tool-pi/open-balena-db
+	url = https://github.com/balena-io/open-balena-db.git
+[submodule "os-build-tool-pi/balena-base-ui"]
+	path = os-build-tool-pi/balena-base-ui
+	url = https://github.com/balena-io/balena-base-ui.git
+[submodule "os-build-tool-pi/sshproxy"]
+	path = os-build-tool-pi/sshproxy
+	url = https://github.com/balena-io/sshproxy.git
+[submodule "os-build-tool-pi/balena-engine"]
+	path = os-build-tool-pi/balena-engine
+	url = https://github.com/balena-os/balena-engine.git
+[submodule "os-build-tool-pi/balena-raspberrypi"]
+	path = os-build-tool-pi/balena-raspberrypi
+	url = https://github.com/balena-os/balena-raspberrypi.git
+[submodule "os-build-tool-pi/moby"]
+	path = os-build-tool-pi/moby
+	url = https://github.com/moby/moby.git
+[submodule "visual-ai-builder/elyra"]
+	path = visual-ai-builder/elyra
+	url = https://github.com/elyra-ai/elyra.git
+[submodule "visual-ai-builder/pipeline-editor"]
+	path = visual-ai-builder/pipeline-editor
+	url = https://github.com/elyra-ai/pipeline-editor.git
+[submodule "visual-ai-builder/node-red"]
+	path = visual-ai-builder/node-red
+	url = https://github.com/node-red/node-red.git
+[submodule "visual-ai-builder/node-red-docker"]
+	path = visual-ai-builder/node-red-docker
+	url = https://github.com/node-red/node-red-docker.git
+[submodule "visual-ai-builder/node-red-dashboard"]
+	path = visual-ai-builder/node-red-dashboard
+	url = https://github.com/node-red/node-red-dashboard.git
+[submodule "visual-ai-builder/node-red-ui-nodes"]
+	path = visual-ai-builder/node-red-ui-nodes
+	url = https://github.com/node-red/node-red-ui-nodes.git
+[submodule "visual-ai-builder/node-red-nodes"]
+	path = visual-ai-builder/node-red-nodes
+	url = https://github.com/node-red/node-red-nodes.git
+[submodule "visual-ai-builder/node-red-web-nodes"]
+	path = visual-ai-builder/node-red-web-nodes
+	url = https://github.com/node-red/node-red-web-nodes.git
+[submodule "visual-ai-builder/linux-installers"]
+	path = visual-ai-builder/linux-installers
+	url = https://github.com/node-red/linux-installers.git
+[submodule "visual-ai-builder/node-red-contrib-esphome"]
+	path = visual-ai-builder/node-red-contrib-esphome
+	url = https://github.com/twocolors/node-red-contrib-esphome.git
+[submodule "visual-ai-builder/node-red-contrib-home-assistant-websocket"]
+	path = visual-ai-builder/node-red-contrib-home-assistant-websocket
+	url = https://github.com/zachowj/node-red-contrib-home-assistant-websocket.git
+[submodule "visual-ai-builder/node-red-contrib-home-assistant-discovery"]
+	path = visual-ai-builder/node-red-contrib-home-assistant-discovery
+	url = https://github.com/twocolors/node-red-contrib-home-assistant-discovery.git
+[submodule "visual-ai-builder/component-library"]
+	path = visual-ai-builder/component-library
+	url = https://github.com/claimed-framework/component-library.git
+[submodule "visual-ai-builder/hass-node-red"]
+	path = visual-ai-builder/hass-node-red
+	url = https://github.com/zachowj/hass-node-red.git
+[submodule "visual-ai-builder/node-red-contrib-homekit-bridged"]
+	path = visual-ai-builder/node-red-contrib-homekit-bridged
+	url = https://github.com/NRCHKB/node-red-contrib-homekit-bridged.git
+[submodule "visual-ai-builder/node-red-contrib-homekit-docker"]
+	path = visual-ai-builder/node-red-contrib-homekit-docker
+	url = https://github.com/NRCHKB/node-red-contrib-homekit-docker.git
+[submodule "visual-ai-builder/node-red-contrib-unifi-os"]
+	path = visual-ai-builder/node-red-contrib-unifi-os
+	url = https://github.com/NRCHKB/node-red-contrib-unifi-os.git
+[submodule "visual-ai-builder/nrchkb-ffmpeg-build"]
+	path = visual-ai-builder/nrchkb-ffmpeg-build
+	url = https://github.com/NRCHKB/nrchkb-ffmpeg-build.git
+[submodule "visual-ai-builder/logger"]
+	path = visual-ai-builder/logger
+	url = https://github.com/NRCHKB/logger.git
+[submodule "rule-engines/ekuiper-docker"]
+	path = rule-engines/ekuiper-docker
+	url = https://github.com/lf-edge/ekuiper-docker.git
+[submodule "rule-engines/ekuiper"]
+	path = rule-engines/ekuiper
+	url = https://github.com/lf-edge/ekuiper.git
+[submodule "visual-ai-builder/node-red-contrib-deepstack"]
+	path = visual-ai-builder/node-red-contrib-deepstack
+	url = https://github.com/iceglow/node-red-contrib-deepstack.git
+[submodule "Frigate-Object-Detector-NVR/frigate"]
+	path = Frigate-Object-Detector-NVR/frigate
+	url = https://github.com/blakeblackshear/frigate.git
+[submodule "Frigate-Object-Detector-NVR/frigate-hass-integration"]
+	path = Frigate-Object-Detector-NVR/frigate-hass-integration
+	url = https://github.com/blakeblackshear/frigate-hass-integration.git
+[submodule "Frigate-Object-Detector-NVR/frigate-hass-card"]
+	path = Frigate-Object-Detector-NVR/frigate-hass-card
+	url = https://github.com/dermotduffy/frigate-hass-card.git
+[submodule "Frigate-Object-Detector-NVR/fEVR"]
+	path = Frigate-Object-Detector-NVR/fEVR
+	url = https://github.com/BeardedTek-com/fEVR.git
+[submodule "Deep-kit/DeepCamera"]
+	path = Deep-kit/DeepCamera
+	url = https://github.com/SharpAI/DeepCamera.git
+[submodule "Deep-kit/DeepStack"]
+	path = Deep-kit/DeepStack
+	url = https://github.com/johnolafenwa/DeepStack.git
+[submodule "Deep-kit/DeepStackPython"]
+	path = Deep-kit/DeepStackPython
+	url = https://github.com/johnolafenwa/DeepStackPython.git
+[submodule "Deep-kit/deepstack-trainer"]
+	path = Deep-kit/deepstack-trainer
+	url = https://github.com/johnolafenwa/deepstack-trainer.git
+[submodule "Deep-kit/deepstack-ui"]
+	path = Deep-kit/deepstack-ui
+	url = https://github.com/robmarkcole/deepstack-ui.git
+[submodule "Deep-kit/deepstack-python"]
+	path = Deep-kit/deepstack-python
+	url = https://github.com/robmarkcole/deepstack-python.git
+[submodule "Deep-kit/node-deepstackai-trigger"]
+	path = Deep-kit/node-deepstackai-trigger
+	url = https://github.com/neilenns/node-deepstackai-trigger.git
+[submodule "Deep-kit/node-red-contrib-deepstack"]
+	path = Deep-kit/node-red-contrib-deepstack
+	url = https://github.com/iceglow/node-red-contrib-deepstack.git
+[submodule "Deep-kit/On-Guard"]
+	path = Deep-kit/On-Guard
+	url = https://github.com/Ken98045/On-Guard.git
+[submodule "Deep-kit/HASS-Deepstack-object"]
+	path = Deep-kit/HASS-Deepstack-object
+	url = https://github.com/robmarkcole/HASS-Deepstack-object.git
+[submodule "Deep-kit/HASS-Deepstack-face"]
+	path = Deep-kit/HASS-Deepstack-face
+	url = https://github.com/robmarkcole/HASS-Deepstack-face.git
+[submodule "Deep-kit/HASS-Deepstack-scene"]
+	path = Deep-kit/HASS-Deepstack-scene
+	url = https://github.com/robmarkcole/HASS-Deepstack-scene.git
+[submodule "Deep-kit/deepstack-analytics"]
+	path = Deep-kit/deepstack-analytics
+	url = https://github.com/robmarkcole/deepstack-analytics.git
+[submodule "Deep-kit/DeepStack_USPS"]
+	path = Deep-kit/DeepStack_USPS
+	url = https://github.com/sstratoti/DeepStack_USPS.git
+[submodule "Deep-kit/DeepStack_OpenLogo"]
+	path = Deep-kit/DeepStack_OpenLogo
+	url = https://github.com/OlafenwaMoses/DeepStack_OpenLogo.git
+[submodule "Deep-kit/DeepStack_ExDark"]
+	path = Deep-kit/DeepStack_ExDark
+	url = https://github.com/OlafenwaMoses/DeepStack_ExDark.git
+[submodule "Deep-kit/DeepStack_ActionNET"]
+	path = Deep-kit/DeepStack_ActionNET
+	url = https://github.com/OlafenwaMoses/DeepStack_ActionNET.git
+[submodule "Paddle-Ai/Paddle-Lite"]
+	path = Paddle-Ai/Paddle-Lite
+	url = https://github.com/PaddlePaddle/Paddle-Lite.git
+[submodule "Paddle-Ai/PaddleDetection"]
+	path = Paddle-Ai/PaddleDetection
+	url = https://github.com/PaddlePaddle/PaddleDetection.git
+[submodule "Paddle-Ai/Paddle"]
+	path = Paddle-Ai/Paddle
+	url = https://github.com/PaddlePaddle/Paddle.git
+[submodule "tensorflow-rest-ai/tensorflow-lite-rest-server"]
+	path = tensorflow-rest-ai/tensorflow-lite-rest-server
+	url = https://github.com/robmarkcole/tensorflow-lite-rest-server.git
+[submodule "tensorflow-rest-ai/yolov5-flask"]
+	path = tensorflow-rest-ai/yolov5-flask
+	url = https://github.com/robmarkcole/yolov5-flask.git
+[submodule "Data-Analytics/HASS-data-detective"]
+	path = Data-Analytics/HASS-data-detective
+	url = https://github.com/robmarkcole/HASS-data-detective.git
+[submodule "tensorflow-rest-ai/coral-pi-rest-server"]
+	path = tensorflow-rest-ai/coral-pi-rest-server
+	url = https://github.com/robmarkcole/coral-pi-rest-server.git
+[submodule "tensorflow-rest-ai/yolov5-fastapi"]
+	path = tensorflow-rest-ai/yolov5-fastapi
+	url = https://github.com/robmarkcole/yolov5-fastapi.git
+[submodule "tensorflow-rest-ai/tensorflow-kubernetes-art-classification"]
+	path = tensorflow-rest-ai/tensorflow-kubernetes-art-classification
+	url = https://github.com/IBM/tensorflow-kubernetes-art-classification.git
+[submodule "Data-Analytics/redash"]
+	path = Data-Analytics/redash
+	url = https://github.com/getredash/redash.git
+[submodule "CompareFace-Detector/CompreFace"]
+	path = CompareFace-Detector/CompreFace
+	url = https://github.com/exadel-inc/CompreFace.git
+[submodule "CompareFace-Detector/compreface-python-sdk"]
+	path = CompareFace-Detector/compreface-python-sdk
+	url = https://github.com/exadel-inc/compreface-python-sdk.git
+[submodule "CompareFace-Detector/compreface-javascript-sdk"]
+	path = CompareFace-Detector/compreface-javascript-sdk
+	url = https://github.com/exadel-inc/compreface-javascript-sdk.git
+[submodule "CompareFace-Detector/compreface-net-sdk"]
+	path = CompareFace-Detector/compreface-net-sdk
+	url = https://github.com/exadel-inc/compreface-net-sdk.git
+[submodule "CompareFace-Detector/compreface-helm-chart"]
+	path = CompareFace-Detector/compreface-helm-chart
+	url = https://github.com/exadel-inc/compreface-helm-chart.git
+[submodule "CompareFace-Detector/compreface-kubernetes"]
+	path = CompareFace-Detector/compreface-kubernetes
+	url = https://github.com/exadel-inc/compreface-kubernetes.git
+[submodule "Decison-ai-engine/DI-engine"]
+	path = Decison-ai-engine/DI-engine
+	url = https://github.com/opendilab/DI-engine.git
+[submodule "diffusion-ai/InvokeAI"]
+	path = diffusion-ai/InvokeAI
+	url = https://github.com/invoke-ai/InvokeAI.git
+[submodule "Docker-Updater/watchtower"]
+	path = Docker-Updater/watchtower
+	url = https://github.com/containrrr/watchtower.git
+[submodule "Docker-Updater/cakeway"]
+	path = Docker-Updater/cakeway
+	url = https://github.com/containrrr/cakeway.git
+[submodule "Dood-object-detector/doods2"]
+	path = Dood-object-detector/doods2
+	url = https://github.com/snowzach/doods2.git
+[submodule "app-engine/yao"]
+	path = app-engine/yao
+	url = https://github.com/YaoApp/yao.git
